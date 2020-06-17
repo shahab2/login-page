@@ -1,0 +1,117 @@
+*{  margin:0;
+  padding:0;
+  box-sizing:1px;
+}
+body{
+  background:#0B82A0;
+  text-align:center;
+  margin-top:20px;
+  font-family: 
+  
+}
+div .name{
+  color:white;
+  font-size:30px;
+  font-weight:600;
+}
+div .nam{
+  color:#0B82A0;
+  font-size:35px;
+  background:white;
+  border-radius: 4px;
+
+
+}
+div .payra{
+  font-size:30px;
+  color:white;
+  font-weight:550;
+}
+
+.form{
+  width:380px;
+  height:295px;
+  background: #ECEFF4;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  padding: 20px;
+  border-radius: 20px;
+  border: 3px solid transparent;
+  box-shadow:-webkit-box-shadow: 4px 5px 20px 0px rgba(9,9,10,1);
+  -moz-box-shadow: 4px 5px 23px 0px rgba(9,9,10,1);
+  box-shadow: 4px 5px 23px 0px rgba(9,9,10,1);
+}
+input{
+  padding:0;
+}
+label{
+  font-size:15px;
+  color:#717277;
+  float:left;
+}
+.user{
+  width:360px;
+  height:28px;
+  margin: auto;
+  border: 1px solid #999A9C;
+  border-radius: 1px;
+  margin-bottom: 15px;
+  
+}
+
+.likha{
+  text-align:center;
+  margin-top: 10px;
+  font-size:13px;
+  padding:5px 5px;
+  color:#717277;
+  font-weight: 300;
+}
+.likha a{
+  text-decoration: none;
+  color:#1877F2;
+  font-size:12px;
+  font-weight: 400;
+}
+
+button{
+  width: 336px;
+  height: 35px;
+  margin:auto;
+  margin-bottom:20px;
+  background:#0074B1;
+  border: none;
+  
+} 
+.login{
+  border: none;
+  background:#1877F2;
+  font-size: 15px;
+  font-weight: 600;
+  color:#D3FFFF;
+  padding:0;
+  background:none;
+  }
+.btn2{
+    font-size:15px;
+    text-align: center;
+    color:#717277;
+    font-weight: 400;
+  }
+.btn2 a{
+  text-decoration: none;
+  font-size:15px;
+  font-weight: 400;
+}
+section{
+  font-size: 16px;
+  background: #fff;
+  width: 100%;
+  height: 55px;
+  line-height: 60px;
+  text-align: center;
+  margin-top: 550px;
+ 
+}
